@@ -26,7 +26,10 @@ function kembalian($harga, $bayar){
     if ($u50 != 0){echo $u50."x 50.000 \n";}
     if ($u20 != 0){echo $u20."x 20.000 \n";}
     if ($u10 != 0){echo $u10."x 10.000 \n";}
-    if ($u5 != 0){echo $u5."x 5.000 \n";}
+    if ($u5 != 0){echo $u5."x 5.000 \n"
+
+
+        ;}
     if ($uang<5000 && $uang != 0){echo $uang." Disumbangkan karena tidak ada pecahan dibawah 5000 \n";}
 
 

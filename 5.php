@@ -18,5 +18,5 @@ function generate($x){
         echo setSerial()."\n";
     }
 }
-echo generate (5);
+echo generate(4);
 ?>
