@@ -7,7 +7,7 @@ Dapat dijalankan di [Online editor](https://www.onlinegdb.com/) Dengan menggunak
 Atau bisa juga dengan menggunakan Terminal dengan perintah :
 
 ```bash
-pip -f *namafile*.php
+php -f *namafile*.php
 ```
 
 ## Untuk Soal no 7 
